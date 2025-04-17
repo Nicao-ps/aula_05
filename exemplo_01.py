@@ -3,3 +3,4 @@ for n in range(5):
     num = float(input('\nInforme o número: '))
     sum = sum + num
     print(sum)
+
